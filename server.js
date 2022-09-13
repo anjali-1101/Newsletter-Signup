@@ -64,3 +64,8 @@ app.get("/try_again",function(req,res){
 
 //api key: 392c706649ad49d5f3b37548474b74aa-us10
 //list id: a1375b7d01
+// git remote add origin "url github"
+// git push -u origin master
+//git clone url
+//git branch "branchname"
+//git checkout branchname (switch to specified branch)
